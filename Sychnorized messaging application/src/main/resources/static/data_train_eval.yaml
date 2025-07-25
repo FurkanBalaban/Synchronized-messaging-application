@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive
+train: DENTEX-TOPLAM/train/images
+val: DENTEX-TOPLAM/val/images
+test: DENTEX-TOPLAM/train/images  
+names:
+  0: caries
